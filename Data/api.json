@@ -11,6 +11,7 @@
         "position": "Goalkeeper",
         "goals": 0,
         "matches": 14,
+        "fromPSGformation": false,
         "imageURL": "https://assets.laliga.com/squad/2022/t178/p77318/256x278/p77318_t178_2022_0_001_000.png"
       },
       {
@@ -24,6 +25,7 @@
         "position": "Goalkeeper",
         "goals": 0,
         "matches": 0,
+        "fromPSGformation": false,
         "imageURL": "https://assets.laliga.com/squad/2022/t178/p210341/256x278/p210341_t178_2022_0_001_000.png"
       },
       {
@@ -50,6 +52,7 @@
         "position": "Defender",
         "goals": 0,
         "matches": 3,
+        "fromPSGformation": false,
         "imageURL": "https://assets.laliga.com/squad/2022/t178/default/512x512/default_t178_2022_1_003_000.png"
       },
       {
@@ -63,6 +66,7 @@
         "position": "Defender",
         "goals": 0,
         "matches": 6,
+        "fromPSGformation": false,
         "imageURL": "https://assets.laliga.com/squad/2022/t178/p18221/256x278/p18221_t178_2022_0_001_000.png"
       },
       {
@@ -76,6 +80,7 @@
         "position": "Defender",
         "goals": 0,
         "matches": 6,
+        "fromPSGformation": false,
         "imageURL": "https://assets.laliga.com/squad/2022/t178/p445087/256x278/p445087_t178_2022_0_001_000.png"
       },
       {
@@ -89,6 +94,7 @@
         "position": "Defender",
         "goals": 0,
         "matches": 5,
+        "fromPSGformation": false,
         "imageURL": "https://assets.laliga.com/squad/2022/t178/p135363/256x278/p135363_t178_2022_0_001_000.png"
       },
       {
@@ -102,20 +108,22 @@
         "position": "Defender",
         "goals": 0,
         "matches": 7,
+        "fromPSGformation": false,
         "imageURL": "https://assets.laliga.com/squad/2022/t178/default/512x512/default_t178_2022_1_003_000.png"
       },
     {
         "id": 40,
-        "name": "",
+        "name": "dasdas",
         "number": 0,
-        "country": "",
+        "country": "dsadas",
         "size": 0,
         "weight": 0,
         "birthDate": "04/11/1998",
-        "position": "",
+        "position": "dsadsa",
         "goals": 0,
         "matches": 0,
-        "imageURL": ""
+        "fromPSGformation": false,
+        "imageURL": "https://assets.laliga.com/squad/2022/t178/default/512x512/default_t178_2022_1_003_000.png"
       }
     ]
   }
